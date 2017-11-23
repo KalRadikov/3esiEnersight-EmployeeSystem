@@ -1,0 +1,31 @@
+﻿@model IEnumerable<_3esiEmployeeSystemV1.ViewModels.EntityGroup>
+
+@{
+    ViewBag.Title = "Employee Body Statistics";
+}
+
+<h2>Employee Body Statistics</h2>
+
+<table>
+    <tr>
+        <th>
+            Department
+        </th>
+        <th>&emsp;</th>
+        <th>
+            Employees
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartmentName)
+            </td>
+            <td></td>
+            <td>
+                @item.EmployeeCount
+            </td>
+        </tr>
+    }
+</table>

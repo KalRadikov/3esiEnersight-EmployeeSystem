@@ -1,0 +1,88 @@
+﻿@model _3esiEmployeeSystemV1.Models.Employee.Compensation
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Compensation</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CompensationType.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompensationType.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Currency.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Currency.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffectiveDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffectiveDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExchangeRate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExchangeRate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompensationComment)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompensationComment)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

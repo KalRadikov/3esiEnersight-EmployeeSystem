@@ -1,0 +1,111 @@
+﻿@model PagedList.IPagedList<_3esiEmployeeSystemV1.Models.Employee.Training>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Trainings</h2>
+
+@using (Html.BeginForm("Index", "Compensations", FormMethod.Get))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Last Name", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("First Name", "Index", new { sortOrder = ViewBag.FNameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Training Category", "Index", new { sortOrder = ViewBag.CatSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Training Type", "Index", new { sortOrder = ViewBag.TypeSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Course Name
+        </th>
+        <th>
+            Offered By
+        </th>
+        <th>
+            @Html.ActionLink("Start Date", "Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            End Date
+        </th>
+        <th>
+            @Html.ActionLink("Amount", "Index", new { sortOrder = ViewBag.AmountSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Employee.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Employee.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TrainingCategory.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TrainingType.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CourseName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OfferedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Amount)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TrainingID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TrainingID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TrainingID })
+        </td>
+    </tr>
+}
+
+</table>
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, pageSize = ViewBag.PageSize }))
+
+@using (Html.BeginForm("Index", "Trainings", FormMethod.Post))
+{
+    <p>
+        Items per Page @Html.DropDownList("PageSize", new SelectList(new Dictionary<string, int> { { "5", 5 }, { "10", 10 }, { "20", 20 }, { "100", 100 }, { "All", Model.TotalItemCount } }, "Value", "Key", Model.Count))
+        <input type="submit" value="&raquo;" class="button" />
+    </p>
+}
+
+<br />
+@using (Html.BeginForm("ExportTrainingsToExcel", "Excel", FormMethod.Post))
+{
+    <input type="submit" value="Export to Excel" class="button" />
+}

@@ -1,0 +1,58 @@
+﻿@model _3esiEmployeeSystemV1.Models.Employee.ParkingAccess
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ParkingAccess</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Parking.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Parking.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffectiveDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffectiveDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CarModel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CarModel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PlateNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlateNumber)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ParkingAccessID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,118 @@
+﻿@model IEnumerable<_3esiEmployeeSystemV1.Models.Employee.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Master Search</h2>
+@using (Html.BeginForm("Index", "Search", FormMethod.Get))
+{
+<table border="0" cellpadding="20" cellspacing="20">
+    <tr>
+        <td> Department:</td>
+        <td>@Html.DropDownList("departmentType", "All") </td>
+    </tr>
+    <tr>
+        <td>Budget Area:</td>
+        <td>@Html.DropDownList("budgetAreaType", "All") </td>
+    </tr>
+    <tr>
+        <td>Status:</td>
+        <td>@Html.DropDownList("statusType", "All") </td>
+    </tr>
+    <tr>
+        <td>Legal Company:</td>
+        <td>@Html.DropDownList("lCompType", "All")</td>
+    </tr>
+    <tr>
+        <td>Heritage Company:</td>
+        <td> @Html.DropDownList("hCompType", "All")</td>
+    </tr>
+    <tr>
+        <td>Employee Type:</td>
+        <td>@Html.DropDownList("empType", "All")</td>
+    </tr>
+    <tr>
+        <td>Union Status:</td>
+        <td> @Html.DropDownList("unionType", "All") </td>
+    </tr>
+    <tr>
+        <td>Overtime:</td>
+        <td>@Html.DropDownList("overtimeType", "All")</td>
+    </tr>
+    <tr>
+        <td>Compensation:</td>
+        <td>@Html.DropDownList("compensationType", "All")</td>
+    </tr>
+    <tr>
+        <td>From Date:</td>
+        <td> @Html.TextBox("startDate")</td>
+    </tr>
+    <tr>
+        <td>To Date:</td>
+        <td> @Html.TextBox("endDate")</td>
+    </tr>
+</table>
+    <p>
+        <br />
+        Name: @Html.TextBox("searchString")
+
+        <input type="submit" value="Filter" />
+    </p>
+}
+    @*<p>
+        @Html.ActionLink("Create New", "Create")
+        @using (Html.BeginForm("Index", "Search", FormMethod.Get))
+        {
+        <p>
+            Department: @Html.DropDownList("departmentType", "All")
+            Budget Area: @Html.DropDownList("budgetAreaType", "All")
+            Status: @Html.DropDownList("statusType", "All")
+            Legal Company: @Html.DropDownList("lCompType", "All")
+            Heritage Company: @Html.DropDownList("hCompType", "All")
+            Employee Type: @Html.DropDownList("empType", "All")
+            Union Status: @Html.DropDownList("unionType", "All")
+            Overtime: @Html.DropDownList("overtimeType", "All")
+            Compensation: @Html.DropDownList("compensationType", "All")
+            Name: @Html.TextBox("searchString")
+
+            <input type="submit" value="Filter" />
+        </p>
+        }*@
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.LastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FirstName)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.HireDate)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HireDate)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Select", "HistoryReport", "Reporting", new { id = item.EmployeeID }, null) |
+                        @Html.ActionLink("Edit", "Edit", new { id = item.EmployeeID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.EmployeeID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeID })
+                    </td>
+                </tr>
+            }
+
+        </table>

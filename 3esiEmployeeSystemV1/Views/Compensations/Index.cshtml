@@ -1,0 +1,102 @@
+﻿@model PagedList.IPagedList<_3esiEmployeeSystemV1.Models.Employee.Compensation>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Compensations</h2>
+
+@using (Html.BeginForm("Index", "Compensations", FormMethod.Get))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.ActionLink("Last Name", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("First Name", "Index", new { sortOrder = ViewBag.FNameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Compensation Type", "Index", new { sortOrder = ViewBag.CompTypeSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Effective Date", "Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            End Date
+        </th>
+        <th>
+            @Html.ActionLink("Amount", "Index", new { sortOrder = ViewBag.AmountSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Currency
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+
+
+        <td>
+            @Html.DisplayFor(modelItem => item.Employee.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Employee.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompensationType.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EffectiveDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Amount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Currency.Name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CompensationID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CompensationID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CompensationID })
+        </td>
+    </tr>
+}
+
+</table>
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, pageSize = ViewBag.PageSize }))
+
+@using (Html.BeginForm("Index", "Compensations", FormMethod.Post))
+{
+    <p>
+        Items per Page @Html.DropDownList("PageSize", new SelectList(new Dictionary<string, int> { { "5", 5 }, { "10", 10 }, { "20", 20 }, { "100", 100 }, { "All", Model.TotalItemCount } }, "Value", "Key", Model.Count))
+        <input type="submit" value="&raquo;" class="button" />
+    </p>
+}
+
+<br />
+@using (Html.BeginForm("ExportCompensationsToExcel", "Excel", FormMethod.Post))
+{
+    <input type="submit" value="Export to Excel" class="button" />
+}

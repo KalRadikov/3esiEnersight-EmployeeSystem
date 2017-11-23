@@ -1,0 +1,390 @@
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\ApplicationInsights.config
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\csc.exe
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Collections.Immutable.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Reflection.Metadata.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\vbc.exe
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\VBCSCompiler.exe
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\VBCSCompiler.exe.config
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.dll.config
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.pdb
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Antlr3.Runtime.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\EntityFramework.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\EntityFramework.SqlServer.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.Agent.Intercept.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.DependencyCollector.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.Web.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.WindowsServer.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.ApplicationInsights.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Core.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Owin.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Cookies.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Facebook.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Google.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.OAuth.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Twitter.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Web.Infrastructure.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Newtonsoft.Json.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Owin.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.Helpers.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.Mvc.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.Optimization.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.Razor.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.WebPages.Deployment.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.WebPages.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.WebPages.Razor.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\WebGrease.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.DependencyCollector.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.Web.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AI.WindowsServer.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.ApplicationInsights.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.Helpers.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.Mvc.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.Optimization.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.Razor.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.WebPages.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.WebPages.Deployment.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\System.Web.WebPages.Razor.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Antlr3.Runtime.pdb
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Newtonsoft.Json.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\EntityFramework.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\EntityFramework.SqlServer.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Core.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Owin.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Facebook.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Cookies.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.OAuth.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Google.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Twitter.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.csprojResolveAssemblyReference.cache
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.pdb
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\csc.exe.config
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\csc.rsp
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\csi.exe
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\csi.exe.config
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\csi.rsp
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.AppContext.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Console.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.Process.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.IO.Compression.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.IO.Pipes.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Security.AccessControl.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Security.Claims.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Security.Principal.Windows.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Threading.Thread.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.ValueTuple.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Xml.ReaderWriter.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XmlDocument.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XPath.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\vbc.exe.config
+\\cgyfile1\home$\kal.radikov\visual studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\bin\roslyn\vbc.rsp
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.Initial.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.csproj.GenerateResource.Cache
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.EmployeeAdded.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.BuildingAccess.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\ApplicationInsights.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\csc.exe
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\csc.exe.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\csc.rsp
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\csi.exe
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\csi.exe.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\csi.rsp
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.AppContext.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Collections.Immutable.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Console.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.Process.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.IO.Compression.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.IO.Pipes.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Reflection.Metadata.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Security.AccessControl.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Security.Claims.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Security.Principal.Windows.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Threading.Thread.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.ValueTuple.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Xml.ReaderWriter.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XmlDocument.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XPath.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\vbc.exe
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\vbc.exe.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\vbc.rsp
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\VBCSCompiler.exe
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\roslyn\VBCSCompiler.exe.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.dll.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.pdb
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Antlr3.Runtime.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\EntityFramework.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\EntityFramework.SqlServer.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.Agent.Intercept.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.DependencyCollector.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.Web.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.WindowsServer.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.ApplicationInsights.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Core.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Owin.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Cookies.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Facebook.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Google.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.OAuth.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Twitter.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Web.Infrastructure.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Newtonsoft.Json.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Owin.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.Helpers.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.Mvc.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.Optimization.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.Razor.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.WebPages.Deployment.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.WebPages.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.WebPages.Razor.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\WebGrease.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Antlr3.Runtime.pdb
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.DependencyCollector.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.Web.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AI.WindowsServer.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.ApplicationInsights.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Cookies.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Facebook.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Google.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.OAuth.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Twitter.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Newtonsoft.Json.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.Helpers.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.Mvc.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.Optimization.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.Razor.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.WebPages.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.WebPages.Deployment.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\System.Web.WebPages.Razor.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\EntityFramework.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\EntityFramework.SqlServer.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Core.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Owin.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.csprojResolveAssemblyReference.cache
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.pdb
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.userroles.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.csproj.GenerateResource.Cache
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\ApplicationInsights.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\csc.exe
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\csc.exe.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\csc.rsp
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\csi.exe
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\csi.exe.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\csi.rsp
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.AppContext.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Collections.Immutable.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Console.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.Process.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.IO.Compression.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.IO.Pipes.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Reflection.Metadata.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Security.AccessControl.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Security.Claims.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Security.Principal.Windows.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Threading.Thread.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.ValueTuple.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Xml.ReaderWriter.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XmlDocument.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XPath.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\vbc.exe
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\vbc.exe.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\vbc.rsp
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\VBCSCompiler.exe
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\roslyn\VBCSCompiler.exe.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.dll.config
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.pdb
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Antlr3.Runtime.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\EntityFramework.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\EntityFramework.SqlServer.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.Agent.Intercept.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.DependencyCollector.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.Web.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.WindowsServer.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.ApplicationInsights.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Core.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Owin.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Cookies.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Facebook.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Google.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.OAuth.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Twitter.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Web.Infrastructure.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Newtonsoft.Json.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Owin.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.Helpers.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.Mvc.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.Optimization.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.Razor.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.WebPages.Deployment.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.WebPages.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.WebPages.Razor.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\WebGrease.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Antlr3.Runtime.pdb
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.DependencyCollector.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.Web.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AI.WindowsServer.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.ApplicationInsights.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Cookies.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Facebook.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Google.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.OAuth.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.Owin.Security.Twitter.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Newtonsoft.Json.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.Helpers.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.Mvc.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.Optimization.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.Razor.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.WebPages.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.WebPages.Deployment.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\System.Web.WebPages.Razor.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\EntityFramework.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\EntityFramework.SqlServer.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Core.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.Owin.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.csprojResolveAssemblyReference.cache
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.userroles.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.csproj.GenerateResource.Cache
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.pdb
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.enumchanged.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.enumv2.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.LocaltoSQL.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.FixedHLCompany.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.benefitIDchanged.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.buildingaccesscardid.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.benefitidfix.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.benefitidfix2.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.IDconventionfixed.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.IDconventionfixed2.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.IDconvention3.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\PagedList.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\PagedList.Mvc.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\PagedList.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\PagedList.Mvc.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.BuildingParking.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\ClosedXML.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\DocumentFormat.OpenXml.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\FastMember.Signed.dll
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\ClosedXML.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\bin\DocumentFormat.OpenXml.xml
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.DeptBAAbrevAdded.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.SeansInput.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.SeansInput2.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.SeansInput3.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.SeansInput5.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\_3esiEmployeeSystemV1.Migrations.SeansInput6.resources
+\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Login working\3esiEmployeeSystemV1\obj\Debug\3esiEmployeeSystemV1.csproj.CoreCompileInputs.cache

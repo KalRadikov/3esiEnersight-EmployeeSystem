@@ -1,0 +1,60 @@
+﻿@model IEnumerable<_3esiEmployeeSystemV1.ViewModels.EntityGroup>
+
+@{
+    ViewBag.Title = "Employee Budget Area Statistics";
+}
+<style>
+    table th, td, tr {
+        border: 1px solid #555;
+        padding: 3px;
+    }
+</style>
+
+<h2>Employee Entity Statistics</h2>
+
+<table>
+    <tr>
+        <th>
+            Budget Area
+        </th>
+        <th>
+            Department
+        </th>
+        <th>
+            Employees
+        </th>
+        <th>
+            Count
+        </th>
+    </tr>
+    @foreach (var item in Model.OrderByDescending(e => e.BudgetArea))
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BudgetArea)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department)
+            </td>
+            <td>
+                @foreach (var e in item.Employees)
+                {
+                    @Html.DisplayFor(modelItem => e.FullName) <br />
+                }
+            </td>
+            <td>
+                @item.BAreaCount
+            </td>
+        </tr>
+    }
+    <tr>
+        <td>
+            <strong>Sum</strong>
+        </td>
+        <td></td>
+        <td></td>
+        <td>
+            <strong>@ViewBag.Total</strong>
+        </td>
+    </tr>
+</table>

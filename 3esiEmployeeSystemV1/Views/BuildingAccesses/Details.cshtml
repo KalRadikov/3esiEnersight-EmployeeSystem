@@ -1,0 +1,50 @@
+﻿@model _3esiEmployeeSystemV1.Models.Employee.BuildingAccess
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>BuildingAccess</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Building.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Building.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffectiveDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffectiveDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CardIDNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CardIDNumber)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.BuildingAccessID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

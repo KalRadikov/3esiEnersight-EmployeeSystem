@@ -1,0 +1,112 @@
+﻿@model _3esiEmployeeSystemV1.Models.Employee.Status
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Status</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeStatus.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeStatus.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeType.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeType.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HeritageCompany.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HeritageCompany.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LegalCompany.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LegalCompany.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OverTimeStatus.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OverTimeStatus.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnionStatus.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnionStatus.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffectiveDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffectiveDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PercentFullTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PercentFullTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PayRollNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PayRollNumber)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

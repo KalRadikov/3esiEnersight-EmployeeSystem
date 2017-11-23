@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <!--<li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>-->
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Employee Census<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Employees", "Index", "Employees")</li>
+                            <li>@Html.ActionLink("Statuses", "Index", "Status")</li>
+                            <li>@Html.ActionLink("Compensations", "Index", "Compensations")</li>
+                            <li>@Html.ActionLink("Careers", "Index", "Careers")</li>
+                            <li>@Html.ActionLink("Benefits", "Index", "Benefits")</li>
+                            <li>@Html.ActionLink("Trainings", "Index", "Trainings")</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Access<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/parkingaccesses">Parking Access</a></li>
+                            <li><a href="/buildingaccesses">Building Accesses</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reporting<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Employee History", "Index", "Employee")</li>
+                            <li>@Html.ActionLink("By Entity Dashboard", "EntityReport", "Reporting")</li>
+                            <li>@Html.ActionLink("By Compensation Dashboard", "CompensationReport", "Reporting")</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Excel Export<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Export Employees", "ExportEmployeesToExcel", "Excel")</li>
+                            <li>@Html.ActionLink("Export Status", "ExportStatusToExcel", "Excel")</li>
+                            <li>@Html.ActionLink("Export Compensations", "ExportCompensationsToExcel", "Excel")</li>
+                            <li>@Html.ActionLink("Export Careers", "ExportCareersToExcel", "Excel")</li>
+                            <li>@Html.ActionLink("Export Benefits", "ExportBenefitsToExcel", "Excel")</li>
+                            <li>@Html.ActionLink("Export Trainings", "ExportTrainingsToExcel", "Excel")</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Configuration<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/departments">Departments</a></li>
+                            <li><a href="/budgetareas">Budget Areas</a></li>
+                            <li><a href="/heritagecompanies">Heritage Companies</a></li>
+                            <li><a href="/legalcompanies">Legal Companies</a></li>
+                            <li><a href="/currencies">Currencies</a></li>
+                            <li><a href="/compensationtypes">Compensation Types</a></li>
+                            <li><a href="/employeestatus">Employee Status</a></li>
+                            <li><a href="/employeetypes">Employee Types</a></li>
+                            <li><a href="/overtimestatus">Over-Time Status</a></li>
+                            <li><a href="/unionstatus">Union Status</a></li>
+                            <li><a href="/benefittypes">Benefit Types</a></li>
+                            <li><a href="/trainingtypes">Training Types</a></li>
+                            <li><a href="/trainingcategories">Training Categories</a></li>
+                            <li><a href="/buildings">Building Locations</a></li>
+                            <li><a href="/parkings">Parking Locations</a></li>
+                        </ul>
+                    </li>
+                    <li>@Html.ActionLink("Search", "Index", "Search")</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>© 2017 - 3esi-Enersight</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

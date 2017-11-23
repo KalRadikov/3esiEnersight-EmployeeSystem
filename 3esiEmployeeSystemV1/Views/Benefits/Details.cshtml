@@ -1,0 +1,82 @@
+﻿@model _3esiEmployeeSystemV1.Models.Employee.Benefit
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Benefit</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BenefitType.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BenefitType.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Currency.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Currency.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffectiveDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffectiveDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BenefitPlan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BenefitPlan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Comment)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Comment)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.BenefitID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

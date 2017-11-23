@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: 3esiEmployeeSystemV1, Configuration: Debug Any CPU ------
+1>\\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\Controllers\ImportDataController.cs(67,30,67,32): warning CS0168: The variable 'ex' is declared but never used
+1>  3esiEmployeeSystemV1 -> \\cgyfile1\home$\kal.radikov\Visual Studio 2015\Projects\3esiEmployeeSystemV1 - Copy (2)\3esiEmployeeSystemV1\bin\3esiEmployeeSystemV1.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

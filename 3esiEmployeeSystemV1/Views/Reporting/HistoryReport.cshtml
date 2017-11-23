@@ -1,0 +1,361 @@
+﻿@model _3esiEmployeeSystemV1.ViewModels.EmployeeIndexData
+
+@{
+    ViewBag.Title = "History Report";
+}
+
+<h2>
+    History Report for @ViewBag.FullName
+</h2>
+
+<br />
+
+@if (Model.Status != null)
+{
+    <h3>Status</h3>
+    <table class="table">
+        <tr>
+            <th>Effective Date</th>
+            <th>End Date</th>
+            <th>Heritage Company</th>
+            <th>Legal Company</th>
+            <th>Status</th>
+            <th>Employee Type</th>
+            <th>% Full-time</th>
+            <th>Over-time Status</th>
+            <th>Union Status</th>
+            <th>Payroll Number</th>
+        </tr>
+
+        @foreach (var item in Model.Status)
+        {
+            string selectedRow = "";
+            if (item.StatusID == ViewBag.StatusID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @Html.DisplayFor(modelItem => item.EffectiveDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @item.HeritageCompany.Name
+                </td>
+                <td>
+                    @item.LegalCompany.Name
+                </td>
+                <td>
+                    @item.EmployeeStatus.Name
+                </td>
+                <td>
+                    @item.EmployeeType.Name
+                </td>
+                <td>
+                    @item.PercentFullTime
+                </td>
+                <td>
+                    @item.OverTimeStatus.Name
+                </td>
+                <td>
+                    @item.UnionStatus.Name
+                </td>
+                <td>
+                    @item.PayRollNumber
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+<br />
+
+@if (Model.Compensations != null)
+{
+    <h3>Compensations</h3>
+    <table class="table">
+        <tr>
+            <th>Effective Date</th>
+            <th>End Date</th>
+            <th>Compensation Type</th>
+            <th>Amount</th>
+            <th>Currency</th>
+            <th>Exchange Rate</th>
+            <th>Comment</th>
+        </tr>
+
+        @foreach (var item in Model.Compensations)
+        {
+            string selectedRow = "";
+            if (item.CompensationID == ViewBag.CompensationID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @Html.DisplayFor(modelItem => item.EffectiveDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @item.CompensationType.Name
+                </td>
+                <td>
+                    @item.Amount
+                </td>
+                <td>
+                    @item.Currency.Name
+                </td>
+                <td>
+                    @item.ExchangeRate
+                </td>
+                <td>
+                    @item.CompensationComment
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+<br />
+
+@if (Model.Careers != null)
+{
+    <h3>Career Path</h3>
+    <table class="table">
+        <tr>
+            <th>Effective Date</th>
+            <th>End Date</th>
+            <th>Title</th>
+            <th>Department</th>
+            <th>Budget Area</th>
+            <th>Supervisor</th>
+
+        </tr>
+
+        @foreach (var item in Model.Careers)
+        {
+                    string selectedRow = "";
+                    if (item.CareerID == ViewBag.CareerID)
+                    {
+                        selectedRow = "success";
+                    }
+            <tr class="@selectedRow">
+                <td>
+                    @Html.DisplayFor(modelItem => item.EffectiveDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @item.Department.Name
+                </td>
+                <td>
+                    @item.BudgetArea.Name
+                </td>
+                <td>
+                    @item.Supervisor
+                </td>
+
+            </tr>
+        }
+
+    </table>
+}
+
+<br />
+
+@if (Model.Benefits != null)
+{
+    <h3>Benefits</h3>
+    <table class="table">
+        <tr>
+            <th>Effective Date</th>
+            <th>End Date</th>
+            <th>BenefitPlan</th>
+            <th>Benefit Type</th>
+            <th>Amount</th>
+            <th>Currency</th>
+            <th>Comment</th>
+        </tr>
+
+        @foreach (var item in Model.Benefits)
+        {
+            string selectedRow = "";
+            if (item.BenefitID == ViewBag.BenefitID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @Html.DisplayFor(modelItem => item.EffectiveDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @item.BenefitPlan
+                </td>
+                <td>
+                    @item.BenefitType.Name
+                </td>
+                <td>
+                    @item.Amount
+                </td>
+                <td>
+                    @item.Currency.Name
+                </td>
+                <td>
+                    @item.Comment
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+<br />
+
+@if (Model.Trainings != null)
+{
+    <h3>Training</h3>
+    <table class="table">
+        <tr>
+            <th>Training Category</th>
+            <th>Training Type</th>
+            <th>Course Name</th>
+            <th>Offered By</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Amount</th>
+            <th>Feedback</th>
+        </tr>
+
+        @foreach (var item in Model.Trainings)
+        {
+            string selectedRow = "";
+            if (item.TrainingID == ViewBag.TrainingID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @item.CourseName
+                </td>
+                <td>
+                    @item.TrainingType.Name
+                </td>
+                <td>
+                    @item.TrainingCategory.Name
+                </td>
+                <td>
+                    @item.OfferedBy
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @item.Amount
+                </td>
+                <td>
+                    @item.Feedback
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+<br />
+
+@if (Model.ParkingAccesses != null)
+{
+    <h3>Parking Access</h3>
+    <table class="table">
+        <tr>
+            <th>EffectiveDate</th>
+            <th>Address</th>
+            <th>CarModel</th>
+            <th>PlateNumber </th>
+
+        </tr>
+
+        @foreach (var item in Model.ParkingAccesses)
+        {
+            string selectedRow = "";
+            if (item.ParkingAccessID == ViewBag.ParkingAccessID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @Html.DisplayFor(modelItem => item.EffectiveDate)
+                </td>
+                <td>
+                    @item.Parking.Address
+                </td>
+
+                <td>
+                    @item.CarModel
+                </td>
+                <td>
+                    @item.PlateNumber
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+<br />
+
+@if (Model.BuildingAccesses != null)
+{
+    <h3>Building Access</h3>
+    <table class="table">
+        <tr>
+            <th>Building</th>
+            <th>EffectiveDate</th>
+            <th>Access Card ID</th>
+
+        </tr>
+
+        @foreach (var item in Model.BuildingAccesses)
+        {
+            string selectedRow = "";
+            if (item.BuildingAccessID == ViewBag.BuildingAccessID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @item.Building.Name
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EffectiveDate)
+                </td>
+                <td>
+                    @item.CardIDNumber
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+<br />
+@using (Html.BeginForm("ExportHistoryToExcel", "Excel", FormMethod.Post))
+{
+    <input type="submit" value="Export to Excel" class="button" />
+}

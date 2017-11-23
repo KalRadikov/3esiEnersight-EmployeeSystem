@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1><img src="~/Content/Images/3esiEner_Logo.png" alt="Logo" style="max-width:100%; max-height:100%;">Employee Database</h1>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Welcome</h2>
+        <p>
+            This Database is used to store and report on all employees employed at 3esi-Enersight.&nbsp;</p>
+        <p><a class="btn btn-default" href="https://3esi-enersight.com/">3esi-Enersight &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Security</h2>
+        <p> <strong>Admins: </strong>can access the 'Register' tab to add users and roles. Full access to site. <br>
+            <strong>Managers: </strong> can access full website except 'Register', 'Configuration', and cannot delete certain records. <br>
+            <strong>Employees: </strong>can only access the 'Access' tab. <br>
+            <strong>Anonymous: </strong>can only access the Homepage <br>
+        </p>
+        <p><a class="btn btn-default" href="/Account/Register">Register New User</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Reporting</h2>
+        <p>Click the button to export all data in Excel. More reporting features planned for future releases including compensation, monthly, and headcount reports.
+           Master search filter also planned. Contact <u>kal.radikov@3esi-Enersight.com</u> for additional support.</p>
+        <p><a class="btn btn-default" href="/Reporting/EntityReport">Export</a></p>
+    </div>
+</div>

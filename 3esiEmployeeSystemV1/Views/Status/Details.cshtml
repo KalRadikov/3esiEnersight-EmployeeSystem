@@ -1,0 +1,106 @@
+﻿@model _3esiEmployeeSystemV1.Models.Employee.Status
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Status</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeStatus.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeStatus.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeType.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeType.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HeritageCompany.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HeritageCompany.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LegalCompany.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LegalCompany.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OverTimeStatus.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OverTimeStatus.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnionStatus.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnionStatus.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffectiveDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffectiveDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PercentFullTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PercentFullTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PayRollNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PayRollNumber)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StatusID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
