@@ -7,7 +7,7 @@
 <h2>Master Search</h2>
 @using (Html.BeginForm("Index", "Search", FormMethod.Get))
 {
-<table border="0" cellpadding="20" cellspacing="20">
+<table class ="table-condensed">
     <tr>
         <td> Department:</td>
         <td>@Html.DropDownList("departmentType", "All") </td>
@@ -46,39 +46,22 @@
     </tr>
     <tr>
         <td>From Date:</td>
-        <td> @Html.TextBox("startDate")</td>
+        <td> @Html.TextBox("startDate", "", new { placeholder = "mm/dd/yyyy" })</td>
     </tr>
     <tr>
         <td>To Date:</td>
-        <td> @Html.TextBox("endDate")</td>
+        <td> @Html.TextBox("endDate", "", new { placeholder = "mm/dd/yyyy" })</td>
+    </tr>
+    <tr>
+        <td>Name:</td>
+        <td> @Html.TextBox("searchString")</td>
     </tr>
 </table>
     <p>
         <br />
-        Name: @Html.TextBox("searchString")
-
         <input type="submit" value="Filter" />
     </p>
 }
-    @*<p>
-        @Html.ActionLink("Create New", "Create")
-        @using (Html.BeginForm("Index", "Search", FormMethod.Get))
-        {
-        <p>
-            Department: @Html.DropDownList("departmentType", "All")
-            Budget Area: @Html.DropDownList("budgetAreaType", "All")
-            Status: @Html.DropDownList("statusType", "All")
-            Legal Company: @Html.DropDownList("lCompType", "All")
-            Heritage Company: @Html.DropDownList("hCompType", "All")
-            Employee Type: @Html.DropDownList("empType", "All")
-            Union Status: @Html.DropDownList("unionType", "All")
-            Overtime: @Html.DropDownList("overtimeType", "All")
-            Compensation: @Html.DropDownList("compensationType", "All")
-            Name: @Html.TextBox("searchString")
-
-            <input type="submit" value="Filter" />
-        </p>
-        }*@
         <table class="table">
             <tr>
                 <th>

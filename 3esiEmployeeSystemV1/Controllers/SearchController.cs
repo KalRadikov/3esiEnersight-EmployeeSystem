@@ -155,7 +155,23 @@ namespace _3esiEmployeeSystemV1.Controllers
                 employees = employees.Include(x => x.Compensations.Select(d => d.CompensationType))
                 .Where(d => d.Compensations.Select(c => c.CompensationType.Name).Contains(compensationType));
             }
-            if (!String.IsNullOrEmpty(startDate) || !String.IsNullOrEmpty(endDate))
+            if (!String.IsNullOrEmpty(startDate))
+            {
+                DateTime dtS = Convert.ToDateTime(startDate);
+                DateTime dtE = DateTime.Now;
+                employees = employees.Include(x => x.Compensations)
+                .Where(d => d.Compensations.Any(b => b.EffectiveDate >= dtS &&
+                b.EffectiveDate <= dtE));
+            }
+             else if (!String.IsNullOrEmpty(endDate))
+            {
+                DateTime dtS = DateTime.MinValue;
+                DateTime dtE = Convert.ToDateTime(endDate);
+                employees = employees.Include(x => x.Compensations)
+                .Where(d => d.Compensations.Any(b => b.EffectiveDate >= dtS &&
+                b.EffectiveDate <= dtE));
+            }
+            else if (!String.IsNullOrEmpty(endDate) || !String.IsNullOrEmpty(startDate))
             {
                 DateTime dtS = Convert.ToDateTime(startDate);
                 DateTime dtE = Convert.ToDateTime(endDate);
@@ -163,6 +179,7 @@ namespace _3esiEmployeeSystemV1.Controllers
                 .Where(d => d.Compensations.Any(b => b.EffectiveDate >= dtS &&
                 b.EffectiveDate <= dtE));
             }
+
 
             return View(employees);
         }
